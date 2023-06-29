@@ -16,7 +16,7 @@ Output: [2,3]
 
 import java.util.HashSet;
 
-public class Question_8 {//FindErrorNums 
+public class Question8 {//FindErrorNums 
     public int[] findErrorNums(int[] nums) {
         int[] result = new int[2];
         HashSet<Integer> set = new HashSet<>();
